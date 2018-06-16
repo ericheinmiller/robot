@@ -3,8 +3,7 @@ A little application that will simulate a toy robot walking around on a table.
 # Installation
 Node is required for this application to work.
 1. In your targeted folder, run "git clone https://github.com/ericheinmiller/robot.git"
-2. run "npm install redline".
-3. run "node robot.js".
+2. Go into the robot folder and run "node app.js".
 
 Now you can type commands to move the robot.
 
